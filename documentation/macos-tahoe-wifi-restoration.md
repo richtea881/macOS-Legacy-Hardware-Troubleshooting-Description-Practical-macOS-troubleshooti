@@ -215,6 +215,36 @@ Screenshot	Evidence
 
 Only include screenshots that were actually captured. Remove or rename entries where evidence is unavailable.
 
+9. Evidence Register
+
+This register identifies the available evidence supporting the practical troubleshooting exercise and distinguishes captured visual evidence from documented troubleshooting records.
+
+Evidence E-01: System A – MacBook Pro 2015
+
+* Filename: system-a-macbook-pro-2015-sequoia-15.8.2.png
+* System: MacBook Pro 2015
+* Operating system: macOS Sequoia 15.8.2
+* Evidence type: Screenshot
+* Purpose: Documents the System A hardware and operating system environment.
+* Availability: Included in the repository under screenshots/.
+
+Evidence E-02: System B – MacBook Pro 2017
+
+* System: MacBook Pro 2017, 13-inch
+* Operating system: macOS Tahoe 26
+* Evidence type: Written troubleshooting record
+* Purpose: Documents the investigation, OCLP upgrade, KDK download, post-installation patching workflow, and reported restoration of Wi-Fi functionality.
+* Availability: Documented in this report. A separate System B screenshot is not currently available.
+
+Evidence Limitations
+
+The available screenshot documents System A only. It does not independently demonstrate the Wi-Fi restoration on System B.
+
+The System B outcome is recorded from the practical troubleshooting experience and subsequent confirmation that Wi-Fi remained operational after several restarts. No visual evidence of the restored Wi-Fi connection is currently included.
+
+This distinction is maintained to ensure that the project presents its available evidence accurately and transparently.
+
+
 10. Conclusion
 
 This project demonstrates a practical approach to diagnosing and resolving an operating system hardware compatibility problem.
