@@ -53,3 +53,20 @@ After updating OCLP, downloading the compatible KDK, and completing the required
 │   ├── macos-tahoe-wifi-restoration.md
 │   └── technical-concepts.md
 └── screenshots/
+
+## Screenshots and Evidence
+
+This section provides visual evidence from the systems used during the practical troubleshooting exercise.
+
+### System A – MacBook Pro 2015
+
+- **Operating system:** macOS Sequoia 15.8.2
+- **Evidence:** System information screenshot.
+
+![System A – MacBook Pro 2015 running macOS Sequoia 15.8.2](screenshots/system-a-macbook-pro-2015-sequoia-15.8.2.png)
+
+### System B – MacBook Pro 2017
+
+- **Operating system:** macOS Tahoe 26
+- **Troubleshooting outcome:** Wi-Fi functionality was successfully restored using the OCLP post-installation patching workflow.
+- **Evidence availability:** The troubleshooting process and outcome are documented in this repository, but a screenshot of System B is not currently included.
